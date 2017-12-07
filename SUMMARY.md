@@ -1,5 +1,4 @@
 1. [入门](1-Beginner/README.md)
-	- 个人技能
 		- [学会 Debug](1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
 		- [如何通过分割问题 Debug](1-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
 		- [如何移除一个错误](1-Beginner/Personal-Skills/03-How-to-Remove-an-Error.md)
@@ -12,7 +11,6 @@
 		- [如何处理偶现的 Bug](1-Beginner/Personal-Skills/10-How-to-Deal-with-Intermittent-Bugs.md)
 		- [如何学习设计技能](1-Beginner/Personal-Skills/11-How-to-Learn-Design-Skills.md)
 		- [如何进行实验](1-Beginner/Personal-Skills/12-How-to-Conduct-Experiments.md)
-	- 团队技能
 		- [为什么预估很重要](1-Beginner/Team-Skills/01-Why-Estimation-is-Important.md)
 		- [如何预估编程时间](1-Beginner/Team-Skills/02-How-to-Estimate-Programming-Time.md)
 		- [如何搜索信息](1-Beginner/Team-Skills/03-How-to-Find-Out-Information.md)
@@ -25,7 +23,6 @@
 		- [如何决定下班时间](1-Beginner/Team-Skills/10-How-to-Recognize-When-to-Go-Home.md)
 		- [如何与不好相处的人相处](1-Beginner/Team-Skills/11-How-to-Deal-with-Difficult-People.md)
 2. [进阶](2-Intermediate/README.md)
-	- 个人技能
 		- [如何保持活力](2-Intermediate/Personal-Skills/01-How-to-Stay-Motivated.md)
 		- [如何才能被广泛信任](2-Intermediate/Personal-Skills/02-How-to-be-Widely-Trusted.md)
 		- [在时间和空间之间该如何权衡](2-Intermediate/Personal-Skills/03-How-to-Tradeoff-Time-vs-Space.md)
@@ -37,13 +34,11 @@
 		- [交流语言](2-Intermediate/Personal-Skills/09-Communication-Languages.md)
 		- [重型工具](2-Intermediate/Personal-Skills/10-Heavy-Tools.md)
 		- [如何分析数据](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
-	- 团队技能
 		- [如何管理开发时间](2-Intermediate/Team-Skills/01-How-to-Manage-Development-Time.md)
 		- [如何管理第三方软件风险](2-Intermediate/Team-Skills/02-How-to-Manage-Third-Party-Software-Risks.md)
 		- [如何管理咨询](2-Intermediate/Team-Skills/03-How-to-Manage-Consultants.md)
 		- [如何适度交流](2-Intermediate/Team-Skills/04-How-to-Communicate-the-Right-Amount.md)
 		- [如何直言异议以及如何避免](2-Intermediate/Team-Skills/05-How-to-Disagree-Honestly-and-Get-Away-with-It.md)
-	- 评判
 		- [如何权衡开发质量与开发时间](2-Intermediate/Judgment/01-How-to-Tradeoff-Quality-Against-Development-Time.md)
 		- [如何管理软件系统依赖](2-Intermediate/Judgment/02-How-to-Manage-Software-System-Dependence.md)
 		- [如何评判一个软件是否太不成熟了](2-Intermediate/Judgment/03-How-to-Decide-if-Software-is-Too-Immature.md)
@@ -53,15 +48,12 @@
 		- [如何决定什么时候使用奇妙的计算机科学](2-Intermediate/Judgment/07-How-to-Know-When-to-Apply-Fancy-Computer-Science.md)
 		- [如何与非工程师交谈](2-Intermediate/Judgment/08-How-to-Talk-to-Non-Engineers.md)
 3. [高级](3-Advanced/README.md)
-	- 技术评判
         - [如何从不可能中找到困难的部分](3-Advanced/Technical-Judgment/01-How-to-Tell-the-Hard-From-the-Impossible.md)
         - [如何使用嵌入型语言](3-Advanced/Technical-Judgment/02-How-to-Utilize-Embedded-Languages.md)
         - [选择语言](3-Advanced/Technical-Judgment/03-Choosing-Languages.md)
-    - 机智地妥协
         - [如何与时间压力作斗争](3-Advanced/Compromising-Wisely/01-How-to-Fight-Schedule-Pressure.md)
         - [如何理解用户](3-Advanced/Compromising-Wisely/02-How-to-Understand-the-User.md)
         - [如何获得晋升](3-Advanced/Compromising-Wisely/03-How-to-Get-a-Promotion.md)
-    - 服务你的团队
         - [如何发展才能](3-Advanced/Serving-Your-Team/01-How-to-Develop-Talent.md)
         - [如何选择工作内容](3-Advanced/Serving-Your-Team/02-How-to-Choose-What-to-Work-On.md)
         - [如何让你队友的价值最大化](3-Advanced/Serving-Your-Team/03-How-to-Get-the-Most-From-Your-Teammates.md)
