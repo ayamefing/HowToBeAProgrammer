@@ -1,4 +1,5 @@
-* 1. [入门](1-Beginner/README.md)
+* [Introduction](README.md)
+1. [入门](1-Beginner/README.md)
 	* 个人技能
 		* [学会 Debug](1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
 		* [如何通过分割问题 Debug](1-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
