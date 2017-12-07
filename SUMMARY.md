@@ -1,5 +1,3 @@
-## 目录
-
 1. [入门](1-Beginner/README.md)
 	- 个人技能
 		- [学会 Debug](1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
